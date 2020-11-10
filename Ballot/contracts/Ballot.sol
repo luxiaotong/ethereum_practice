@@ -77,13 +77,3 @@ contract Ballot {
         }
     }
 }
-
-// let accounts = await web3.eth.getAccounts()
-// let instance = await Ballot.deployed()
-// instance.vote(1)
-// instance.vote(1, {"from":accounts[1]})
-// instance.vote(1, {"from":accounts[2]})
-// let n = await instance.getVote(1)
-// n.toNumber()
-// winner = await instance.winner()
-// web3.utils.hexToString(winner)
