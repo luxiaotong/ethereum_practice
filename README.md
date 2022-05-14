@@ -30,3 +30,11 @@ truffle develop
 5. Instantiate web3
 6. Instantiate contract instance
 7. Call smart contract function
+
+### MASTER Solidity for Blockchain Step-By-Step (Full Course)
+
+#### Doc
+
+https://www.youtube.com/watch?v=YJ-D1RMI0T0&t=1077s
+
+VariableContract/ArrayContract/MappingContract/ControlContract/HotelRoom/InheritanceContract
