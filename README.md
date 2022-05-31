@@ -37,4 +37,17 @@ truffle develop
 
 https://www.youtube.com/watch?v=YJ-D1RMI0T0&t=1077s
 
-VariableContract/ArrayContract/MappingContract/ControlContract/HotelRoom/InheritanceContract
+ - VariableContract
+ - ArrayContract
+ - MappingContract
+ - ControlContract
+ - HotelRoom
+ - InheritanceContract
+
+### Solidity 0.8 Example
+
+https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p
+
+https://solidity-by-example.org
+
+https://github.com/solidity-by-example/solidity-by-example.github.io
