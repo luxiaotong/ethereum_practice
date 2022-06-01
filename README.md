@@ -51,3 +51,8 @@ https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p
 https://solidity-by-example.org
 
 https://github.com/solidity-by-example/solidity-by-example.github.io
+
+ - Data types
+ - Function
+ - Global/State/Local Variables
+ - View & Pure
