@@ -52,7 +52,9 @@ https://solidity-by-example.org
 
 https://github.com/solidity-by-example/solidity-by-example.github.io
 
- - Data types
- - Function
+ - Data types: bool/uint/address
+ - function
  - Global/State/Local Variables
  - View & Pure
+ - Default Value & Constants
+ - if/for/while
