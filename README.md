@@ -60,3 +60,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - if/for/while
  - error
  - Constructor
+ - Array
