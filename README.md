@@ -59,3 +59,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Default Value & Constants
  - if/for/while
  - error
+ - Constructor
