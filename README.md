@@ -65,3 +65,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Array / Mapping / Struct / Enum
  - Proxy
  - Data locations: storage / memory / calldata
+ - Event
