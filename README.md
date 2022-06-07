@@ -64,3 +64,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Constructor
  - Array / Mapping / Struct / Enum
  - Proxy
+ - Data locations: storage / memory / calldata
