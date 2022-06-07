@@ -55,14 +55,15 @@ https://solidity-by-example.org
 https://github.com/solidity-by-example/solidity-by-example.github.io
 
  - Data types: bool/uint/address
- - function & modifier
- - Global/State/Local Variables
+ - Function & Modifier
+ - Global / State / Local Variables
  - View & Pure
  - Default Value & Constants
- - if/for/while
- - error
+ - Control: if / for / while
+ - Error
  - Constructor
  - Array / Mapping / Struct / Enum
  - Proxy
  - Data locations: storage / memory / calldata
  - Event
+ - Inheritance
