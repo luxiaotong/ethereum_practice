@@ -14,12 +14,14 @@ https://github.com/jklepatch/eattheblocks/tree/master/dapp-30
 
 #### Command
 
+```
 truffle init
 truffle test
 truffle compile
 truffle develop
->> migrate --reset
+    >> migrate --reset
 .exit
+```
 
 #### Develop Order
 
@@ -61,3 +63,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - error
  - Constructor
  - Array / Mapping / Struct / Enum
+ - Proxy
