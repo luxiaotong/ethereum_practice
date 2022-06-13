@@ -66,4 +66,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Proxy
  - Data locations: storage / memory / calldata
  - Event
- - Inheritance / Multi Inheritance
+ - Inheritance / Multi Inheritance / Parent Constructor
