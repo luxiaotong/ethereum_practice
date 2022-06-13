@@ -67,3 +67,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Data locations: storage / memory / calldata
  - Event
  - Inheritance / Multi Inheritance / Parent Constructor / Parent Function
+ - Visibility
