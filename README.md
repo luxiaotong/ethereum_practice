@@ -63,7 +63,7 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Error
  - Constructor
  - Array / Mapping / Struct / Enum
- - Proxy / Call Other Contracts / Interface / Call
+ - Proxy / Call Other Contracts / Interface / Call / Delegate Call
  - Data locations: storage / memory / calldata
  - Event
  - Inheritance / Multi Inheritance / Parent Constructor / Parent Function
