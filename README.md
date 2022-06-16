@@ -68,3 +68,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Event
  - Inheritance / Multi Inheritance / Parent Constructor / Parent Function
  - Visibility
+ - Payable / Fallback
