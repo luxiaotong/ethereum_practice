@@ -71,3 +71,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Send Ether / Ehter Wallet
  - Proxy / Call Other Contracts / Interface / Call / Delegate Call
  - NewFactory
+ - Library
