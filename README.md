@@ -69,3 +69,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Inheritance / Multi Inheritance / Parent Constructor / Parent Function
  - Visibility
  - Payable / Fallback
+ - Send Ether

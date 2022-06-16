@@ -9,8 +9,8 @@ pragma solidity ^0.8;
 // N: fallback()
 
 contract Fallback {
-    event Log(string func, address sender, uint value, bytes data);
-    
+    event Log(string func, address sender, uint256 value, bytes data);
+
     fallback() external payable {
         emit Log("fallback", msg.sender, msg.value, msg.data);
     }
