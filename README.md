@@ -88,3 +88,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Ehter Wallet
  - Access Control
  - Piggy Bank
+ - ERC20
