@@ -72,4 +72,5 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Proxy / Call Other Contracts / Interface / Call / Delegate Call
  - NewFactory
  - Library
- - Keccak256 hash
+ - Keccak256 hash / Verify Signature
+ - Access Control
