@@ -74,3 +74,4 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Library
  - Keccak256 hash / Verify Signature
  - Access Control
+ - Self Destruct
