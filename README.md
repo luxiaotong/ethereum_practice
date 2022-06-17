@@ -54,6 +54,8 @@ https://solidity-by-example.org
 
 https://github.com/solidity-by-example/solidity-by-example.github.io
 
+#### Basics
+
  - Data types: bool/uint/address
  - Function & Modifier
  - Global / State / Local Variables
@@ -68,10 +70,21 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - Inheritance / Multi Inheritance / Parent Constructor / Parent Function
  - Visibility
  - Payable / Fallback
- - Send Ether / Ehter Wallet
- - Proxy / Call Other Contracts / Interface / Call / Delegate Call
+ - Send Ether
+ - Call Other Contracts / Interface / Call
  - NewFactory
  - Library
  - Keccak256 hash / Verify Signature
- - Access Control
+ 
+#### Hacks
+
  - Self Destruct
+ - Delegate Call
+
+#### Applications
+
+ - Proxy: deploy any contract
+ - Todo List
+ - Ehter Wallet
+ - Access Control
+ - Piggy Bank
