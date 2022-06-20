@@ -57,7 +57,7 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
 #### Basics
 
  - Data types: bool/uint/address
- - Function & Modifier
+ - Function / Function Modifier / Function Selector
  - Global / State / Local Variables
  - View & Pure
  - Default Value & Constants
