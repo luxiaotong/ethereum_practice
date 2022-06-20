@@ -75,6 +75,7 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
  - NewFactory
  - Library
  - Keccak256 hash / Verify Signature
+ - ABI Encode & Decode
  
 #### Hacks
 
