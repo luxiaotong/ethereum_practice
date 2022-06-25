@@ -81,6 +81,7 @@ https://github.com/solidity-by-example/solidity-by-example.github.io
 
  - Self Destruct
  - Delegate Call
+ - Create2
 
 #### Applications
 
